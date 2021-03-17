@@ -9,3 +9,6 @@ List of college projects by undergraduates from 074 Batch, Pulchowk Campus.
 
 # Computer Graphics Projects 
 * [ICTC Modeling](https://github.com/rabinadk1/ICTC-modeling) by @samipism, @rabinadk1 and @thapaliya19
+
+# C++ Project
+* [a3 Rasterizer](https://github.com/amnino/a3) by @zero56520, @armanchhetri and @amnino
