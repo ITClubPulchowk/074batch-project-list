@@ -10,4 +10,5 @@ List of college projects by undergraduates from 074 Batch, Pulchowk Campus.
 
 # Computer Graphics Projects 
 * [ICTC Modeling](https://github.com/rabinadk1/ICTC-modeling) by @samipism, @rabinadk1 and @thapaliya19
+* [Aeroplane Simulation](https://github.com/mdvillers/Aeroplane-simulation) by @mdvillers, @pujandahal23, Suraj Pandey 
 
