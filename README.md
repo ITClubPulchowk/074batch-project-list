@@ -3,6 +3,7 @@ List of college projects by undergraduates from 074 Batch, Pulchowk Campus.
 
 # C-programming Projects
 * [Paribartan](https://github.com/samipism/project) by @samipism, @thapaliya19 and Suraj Pandey
+* [Calendar](https://github.com/bpanthi977/calendar) by @bpanthi977
 
 # C++ programming Projects
 * [Kurukshetra](https://github.com/rabinadk1/kurukshetra) by @samipism, @rabinadk1 and @thapaliya19
